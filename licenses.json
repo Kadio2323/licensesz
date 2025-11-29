@@ -3,10 +3,26 @@
     {
       "serverIP": "94.154.34.11",
       "owner": "Torzen",
-      "resourceName": "Z-Guard",
-      "expiryDate": "2030-12-31",
+      "resourceName": "z-guard",
+      "expiryDate": "20301231",
       "maxPlayers": 1881,
       "status": "active"
+    },
+    {
+      "serverIP": "192.168.1.100",
+      "owner": "Admin",
+      "resourceName": "Z-Guard Pro",
+      "expiryDate": "20251231",
+      "maxPlayers": 500,
+      "status": "active"
+    },
+    {
+      "serverIP": "10.0.0.5",
+      "owner": "Test",
+      "resourceName": "Z-Guard Test",
+      "expiryDate": "20240101",
+      "maxPlayers": 100,
+      "status": "inactive"
     }
   ]
 }

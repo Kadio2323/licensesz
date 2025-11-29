@@ -1,16 +1,12 @@
 {
   "licenses": [
     {
-      "ip": "94.154.34.11",
-      "name": "Test Server",
-      "expiry": "2090-10-12",
-      "valid": true
-    },
-    {
-      "ip": "176.234.128.181",
-      "name": "Example Server 2",
-      "expiry": "2090-06-30",
-      "valid": true
+      "serverIP": "94.154.34.11",
+      "owner": "Torzen",
+      "resourceName": "Z-Guard",
+      "expiryDate": "2030-12-31",
+      "maxPlayers": 1881,
+      "status": "active"
     }
   ]
 }

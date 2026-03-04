@@ -1,20 +1,11 @@
 {
   "licenses": [
     {
-      "serverIP": "151.242.52.64",
-      "serverName": "█ Viora Roleplay [v1] medium/global/turkce ❱ discord.gg/vioramta ❰",
-      "resourceName": "z-guard",
-      "owner": "Torzen",
-      "expiryDate": "20291231",
-      "status": "active"
-    },
-    {
       "serverIP": "151.242.52.223",
-      "serverName": "█ Avesta Roleplay [v1.0] ❱ Turkce / Sesli / Yazılı ❰ #Comeback ❱ ",
-      "resourceName": "z-guard",
-      "owner": "Torzen",
-      "expiryDate": "20291231",
-      "status": "active"
+      "serverName": "█ Avesta Roleplay [v1.0] ❱ Turkce / Sesli / Yazılı ❰ #Comeback ❱",
+      "status": "active",
+      "expiryDate": "21221231",
+      "owner": "Zentra"
     }
   ]
 }
